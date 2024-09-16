@@ -1,0 +1,4 @@
+--2024-05-24 14:25:10--  https://www.dropbox.com/s/hnv51iwu4hn82rj/s2dnet_weights.pth
+Resolving www.dropbox.com (www.dropbox.com)... 199.96.63.177, 2a03:2880:f11b:83:face:b00c:0:25de
+Connecting to www.dropbox.com (www.dropbox.com)|199.96.63.177|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|2a03:2880:f11b:83:face:b00c:0:25de|:443... failed: Network is unreachable.
